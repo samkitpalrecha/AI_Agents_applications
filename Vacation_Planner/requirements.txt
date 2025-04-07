@@ -1,0 +1,6 @@
+groq
+crewai
+crewai_tools
+langchain-groq
+langchain-openai
+langchain_community
