@@ -1,0 +1,8 @@
+langchain 
+langchain_groq 
+openai 
+pydantic 
+pandas 
+py-trello
+pydub
+speechrecognition
